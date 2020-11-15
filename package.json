@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "nodemon server.js",
+        "devAuth": "nodemon authServer.js",
         "start": "node server.js"
     },
     "keywords": [],
